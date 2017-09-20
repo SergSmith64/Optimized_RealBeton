@@ -20,3 +20,6 @@
 <p>I spread the results:</p>
 <p>Initially, the download speed was not high = 69 (for mobile), and 58 (for stationary) monitors.</p>
 <p>Here's the result: Google-PageSpeed rated the download speed as 90 (for mobile) and 94 (for desktop).</p>
+</br>
+<h3>Changes for 2017 September 20</h3>
+<p>Prices have changed in the price list</p>
